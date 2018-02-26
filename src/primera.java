@@ -1,6 +1,6 @@
 
 public class primera {
 	int unAtributo;
-	int atributoDos;
-
+	int atributoDos=4;
+	
 }
